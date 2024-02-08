@@ -1,0 +1,55 @@
+/* .container{
+    border: 5px solid black;
+}
+
+.row{
+    border: 3px solid red;
+}
+
+.col{
+    border: 2px solid green;
+} */
+a{
+    text-decoration: none;
+    
+}
+
+#header{
+   background-color: orange;
+   padding: 10px 0px 0px 10px;
+}
+
+#menu{
+    padding: 10px 0px 0px 10px;
+    background-color: pink;
+}
+
+#content{
+    background-color: white;
+}
+
+#side-bar{
+    background-color: lightblue;
+    padding: 20px 10px 0px 10px;
+}
+
+#side-bar2{
+    background-color: lightblue;
+    padding: 20px 10px 0px 10px;
+}
+
+#footer{
+    background-color: orange;
+}
+
+body{
+    background-color: rgb(213, 209, 209);;
+}
+
+li{
+    list-style: none;
+}
+
+#menu>ul>li{
+    display: inline-block;
+}
